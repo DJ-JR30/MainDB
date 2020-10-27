@@ -1,4 +1,5 @@
 # Main Database
 
 Images
-[ChanelUzi]()
+
+[ChanelUzi](https://github.com/DJ-JR30/MainDB/blob/main/images/ChanelUzi/Readme.md)
