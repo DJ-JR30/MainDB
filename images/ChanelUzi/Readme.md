@@ -1,9 +1,8 @@
+[Go Back](https://github.com/DJ-JR30/MainDB/blob/main/images/README.md)
 # ChanelUzi Images
 
 
 ## WARNING NSFW
-
-
 
 ![Image1](https://raw.githubusercontent.com/DJ-JR30/MainDB/main/images/ChanelUzi/1.jpg "Image1")
 
