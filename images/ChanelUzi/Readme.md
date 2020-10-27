@@ -29,3 +29,5 @@
 ![Image12](https://raw.githubusercontent.com/DJ-JR30/MainDB/main/images/ChanelUzi/12.jpg "Image12")
 
 ![Image13](https://raw.githubusercontent.com/DJ-JR30/MainDB/main/images/ChanelUzi/13.jpg "Image13")
+
+![Image14](https://raw.githubusercontent.com/DJ-JR30/MainDB/main/images/ChanelUzi/14.jpg "Image14")
