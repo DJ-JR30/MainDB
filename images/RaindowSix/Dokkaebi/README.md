@@ -5,4 +5,4 @@
 
 ## WARNING NSFW
 
-![Image1](https://raw.githubusercontent.com/DJ-JR30/MainDB/main/images/RaindowSix/Dokkaebi/1.png "Image1")
+![Image1](https://raw.githubusercontent.com/DJ-JR30/MainDB/main/images/RaindowSix/Dokkaebi/1.jpg "Image1")
