@@ -5,6 +5,6 @@
 
 ## WARNING NSFW
 
-![Image1](https://raw.githubusercontent.com/DJ-JR30/MainDB/main/images/BlowJobs/1.jpg "Image1")
+![Image1](https://raw.githubusercontent.com/DJ-JR30/MainDB/main/images/BlowJobs/1.png "Image1")
 
-![Image2](https://raw.githubusercontent.com/DJ-JR30/MainDB/main/images/BlowJobs/2.jpg "Image2")
+![Image2](https://raw.githubusercontent.com/DJ-JR30/MainDB/main/images/BlowJobs/2.png "Image2")
