@@ -4,4 +4,4 @@
 
 ---
 
-Anyone can send images in but If you need something taken down message me on discord @ Royal | ACE#6325
+Anyone can send images in but If you need something taken down message me on discord @ `Royal | ACE#6325`
