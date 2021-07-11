@@ -21,5 +21,5 @@
 
 ![10.jpg](https://github.com/DJ-JR30/MainDB/blob/357566ecb67de86b39c5cfa882522c1cef2005a6/images/TradingCards/Stars/jaime/10.jpg)
 
-![11.jpg](https://github.com/DJ-JR30/MainDB/blob/357566ecb67de86b39c5cfa882522c1cef2005a6/images/TradingCards/Stars/jaime/11.jpg)
+![11.jpg](https://github.com/DJ-JR30/MainDB/images/TradingCards/Stars/jaime/11.jpg)
 
